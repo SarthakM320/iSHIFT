@@ -1,0 +1,56 @@
+### model
+model_name_or_path: Qwen/Qwen2-VL-2B-Instruct
+new_special_tokens: <|detection_image_pad|>
+new_tokens: <|latent|>,<|start-latent|>,<|end-latent|>
+resize_vocab: true
+additional_target: embed_tokens,lm_head
+customize_model_class: ishift # must be set as this for our model, must be set None for original qwen
+num_inner_forward_run: 1
+para_mask_id: 0
+para_mask_ratio: 0.0
+vision_encoder_ls: dino
+
+### method
+stage: sft
+do_train: true
+finetuning_type: freefreeze
+freefreeze_trainable_modules: detection_projector
+deepspeed: examples/deepspeed/ds_z0_config.json
+
+### dataset
+dataset: sample_dataset
+# eval_dataset: aitw_val
+template: ishift_qwen2_vl # must be set as this for our model, must be set qwen2_vl for oiginal qwen
+cutoff_len: 2048
+max_samples: 60000
+overwrite_cache: true
+preprocessing_num_workers: 32
+
+### image processing (higher resolution)
+# image_resolution: 1024
+# ~200K pixels minimum
+
+### output
+output_dir: outputs/test_alignment
+logging_steps: 5
+save_steps: 1
+plot_loss: true
+overwrite_output_dir: true
+# resume_from_checkpoint: true
+
+### train
+per_device_train_batch_size: 8
+gradient_accumulation_steps: 4
+learning_rate: 2.0e-3
+num_train_epochs: 5.0 
+lr_scheduler_type: cosine
+warmup_ratio: 0.03
+bf16: true
+ddp_timeout: 180000000
+save_safetensors: false
+
+### eval
+# val_size: 0.002
+# per_device_eval_batch_size: 8
+# eval_strategy: steps
+# eval_steps: 1000

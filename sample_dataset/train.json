@@ -1,0 +1,3102 @@
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.7593, 0.6006]\", \"lift_point\": \"[0.7593, 0.6006]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.076, 0.515]\", \"lift_point\": \"[0.076, 0.515]\", \"typed_text\": \"\"\nGoal: Clear the shopping cart on walmart. Add \"razer deathadder\" to the cart on walmart\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.511, 0.2608]\", \"lift_point\": \"[0.511, 0.2608]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/12714609753060155012_2.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/12714609753060155012_2.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"PRESS_HOME\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"\"\nGoal: open app \"Grab\" (install if not already installed)\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.7903, 0.1223]\", \"lift_point\": \"[0.7903, 0.1223]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/16558814467707358891_1.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/16558814467707358891_1.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.1149, 0.3499]\", \"lift_point\": \"[0.1149, 0.3499]\", \"typed_text\": \"\"\n\"action_type\": \"TYPE\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"Facebook Messenger\"\nGoal: open app \"Facebook Messenger\"\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.2275, 0.622]\", \"lift_point\": \"[0.2275, 0.622]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/3228564035059130206_10.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/3228564035059130206_10.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.3618, 0.3419]\", \"lift_point\": \"[0.3618, 0.3419]\", \"typed_text\": \"\"\nGoal: go to best buy near me \nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [STATUS_TASK_COMPLETE]; Action Decision: \"action_type\": \"STATUS_TASK_COMPLETE\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/15249983481965789405.441-523.go to best buy near me _1.png"
+    ],
+    "detection_images": []
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"PRESS_HOME\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.8847, 0.3666]\", \"lift_point\": \"[0.8847, 0.3666]\", \"typed_text\": \"\"\nGoal: Searchfor good French restaurants\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [TYPE]; Action Decision: \"action_type\": \"TYPE\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"Searchfor good French restaurants\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/9978053473353993271_2.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/9978053473353993271_2.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.0466, 0.5009]\", \"lift_point\": \"[0.0466, 0.5009]\", \"typed_text\": \"\"\n\"action_type\": \"TYPE\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \" news in Sri Lanka?\"\nGoal: What's the news in Sri Lanka?\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.1585, 0.2682]\", \"lift_point\": \"[0.1585, 0.2682]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/12524049093545621141_3.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/12524049093545621141_3.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"PRESS_HOME\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"\"\nGoal: install app \"Nova Launcher\"\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.7659, 0.1103]\", \"lift_point\": \"[0.7659, 0.1103]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/7048496238344696382_1.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/7048496238344696382_1.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.2103, 0.8371]\", \"lift_point\": \"[0.2103, 0.8371]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.0858, 0.7904]\", \"lift_point\": \"[0.0858, 0.7904]\", \"typed_text\": \"\"\nGoal: install app \"Google Maps\"\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [TYPE]; Action Decision: \"action_type\": \"TYPE\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"Google Maps\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/7055010156189333796_3.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/7055010156189333796_3.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"TYPE\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"target\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.2964, 0.3604]\", \"lift_point\": \"[0.2964, 0.3604]\", \"typed_text\": \"\"\nGoal: Search for dell xps on target, select the first entry, and add it to the cart.\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.4005, 0.0802]\", \"lift_point\": \"[0.4005, 0.0802]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/7870146400005903804_3.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/7870146400005903804_3.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \nGoal: open app \"Google Duo\"\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [PRESS_HOME]; Action Decision: \"action_type\": \"PRESS_HOME\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/7749621081011862164_0.png"
+    ],
+    "detection_images": []
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"TYPE\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"bose soundlink\"\n\"action_type\": \"PRESS_ENTER\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"\"\nGoal: Add bose soundlink to the cart on walmart\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.8, 0.5]\", \"lift_point\": \"[0.2, 0.5]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/862973057224652297_9.png"
+    ],
+    "detection_images": []
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.7924, 0.7093]\", \"lift_point\": \"[0.7924, 0.7093]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.7949, 0.7006]\", \"lift_point\": \"[0.7949, 0.7006]\", \"typed_text\": \"\"\nGoal: Search for \"usb-a\" on newegg, select the first entry, add it to the cart, then select checkout.\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.0588, 0.6266]\", \"lift_point\": \"[0.0588, 0.6266]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/6158615885197907811_3.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/6158615885197907811_3.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.7796, 0.1197]\", \"lift_point\": \"[0.7796, 0.1197]\", \"typed_text\": \"\"\nGoal: uninstall \"Spotify\"\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.053, 0.795]\", \"lift_point\": \"[0.053, 0.795]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/17478487450713237587_1.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/17478487450713237587_1.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.7927, 0.5019]\", \"lift_point\": \"[0.7927, 0.5019]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.7927, 0.5019]\", \"lift_point\": \"[0.7927, 0.5019]\", \"typed_text\": \"\"\nGoal: open app \"Google Drive\"\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.7711, 0.4842]\", \"lift_point\": \"[0.7711, 0.4842]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/16041154850246921354_3.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/16041154850246921354_3.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.7764, 0.0394]\", \"lift_point\": \"[0.7764, 0.0394]\", \"typed_text\": \"\"\nGoal: open app \"LinkedIn\" (install if not already installed)\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.7778, 0.0821]\", \"lift_point\": \"[0.7778, 0.0821]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/11480321991036014980_1.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/11480321991036014980_1.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.8, 0.5]\", \"lift_point\": \"[0.2, 0.5]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.5175, 0.3703]\", \"lift_point\": \"[0.5175, 0.3703]\", \"typed_text\": \"\"\nGoal: Search for flights from NYC to Chicago\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.4286, 0.8617]\", \"lift_point\": \"[0.4286, 0.8617]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/11505529586567772554_10.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/11505529586567772554_10.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"PRESS_HOME\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.8, 0.5]\", \"lift_point\": \"[0.2, 0.5]\", \"typed_text\": \"\"\nGoal: What's on Reddit this week\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.4965, 0.7036]\", \"lift_point\": \"[0.4965, 0.7036]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/16678248093442509616_2.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/16678248093442509616_2.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"PRESS_ENTER\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.1379, 0.4399]\", \"lift_point\": \"[0.1379, 0.4399]\", \"typed_text\": \"\"\nGoal: Search for 'The Girl on the Train' on Goodreads.\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.0565, 0.5912]\", \"lift_point\": \"[0.0565, 0.5912]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/17000821411825281771_7.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/17000821411825281771_7.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.911, 0.5811]\", \"lift_point\": \"[0.911, 0.5811]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.1293, 0.9094]\", \"lift_point\": \"[0.1293, 0.9094]\", \"typed_text\": \"\"\nGoal: Add logitech g910 to the cart on target.com\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.0612, 0.4702]\", \"lift_point\": \"[0.0612, 0.4702]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/3511271156311264752_24.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/3511271156311264752_24.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.853, 0.1396]\", \"lift_point\": \"[0.853, 0.1396]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.0751, 0.7805]\", \"lift_point\": \"[0.0751, 0.7805]\", \"typed_text\": \"\"\nGoal: open app \"Venmo\" (install if not already installed), go to login, and select forgot password\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [TYPE]; Action Decision: \"action_type\": \"TYPE\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"Venmo\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/15330611350072267198_5.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/15330611350072267198_5.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.8, 0.5]\", \"lift_point\": \"[0.2, 0.5]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.6352, 0.1511]\", \"lift_point\": \"[0.6352, 0.1511]\", \"typed_text\": \"\"\nGoal: Empty the shopping cart on walmart. Search for \"acer predator\" on walmart, select the first entry, add it to the cart, then select checkout.\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.3902, 0.1255]\", \"lift_point\": \"[0.3902, 0.1255]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/14193643228999180220_10.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/14193643228999180220_10.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.0603, 0.8984]\", \"lift_point\": \"[0.0603, 0.8984]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.0608, 0.2326]\", \"lift_point\": \"[0.0608, 0.2326]\", \"typed_text\": \"\"\nGoal: Search for hotels in NYC\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [TYPE]; Action Decision: \"action_type\": \"TYPE\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"hotels in NYC\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/2889194219222240130_5.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/2889194219222240130_5.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.8, 0.5]\", \"lift_point\": \"[0.2, 0.5]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.6414, 0.6824]\", \"lift_point\": \"[0.6414, 0.6824]\", \"typed_text\": \"\"\nGoal: Clear all items from cart on target. Add \"apple airpods\" to the cart on target\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [STATUS_TASK_COMPLETE]; Action Decision: \"action_type\": \"STATUS_TASK_COMPLETE\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/10608960127332658229_12.png"
+    ],
+    "detection_images": []
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"TYPE\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"sony triple a\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.0604, 0.907]\", \"lift_point\": \"[0.0604, 0.907]\", \"typed_text\": \"\"\nGoal: Search for \"sony triple a\" on amazon.com, select the first entry, and add it to the cart.\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [TYPE]; Action Decision: \"action_type\": \"TYPE\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"amazon\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/312466005536651281_3.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/312466005536651281_3.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \nGoal: View the shopping cart on bestbuy.com.\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.8088, 0.6203]\", \"lift_point\": \"[0.8088, 0.6203]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/6531151699539207845_0.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/6531151699539207845_0.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.8, 0.5]\", \"lift_point\": \"[0.2, 0.5]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.8, 0.5]\", \"lift_point\": \"[0.2, 0.5]\", \"typed_text\": \"\"\nGoal: What's the news in Uruguay?\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.9121, 0.4522]\", \"lift_point\": \"[0.9121, 0.4522]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/17117775537353424724_38.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/17117775537353424724_38.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.2828, 0.3063]\", \"lift_point\": \"[0.2828, 0.3063]\", \"typed_text\": \"\"\n\"action_type\": \"TYPE\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"best rated coffee table\"\nGoal: Search for the best rated coffee table on Target.\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.2099, 0.2756]\", \"lift_point\": \"[0.2099, 0.2756]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/5137312866068707062_13.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/5137312866068707062_13.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.1311, 0.3]\", \"lift_point\": \"[0.1311, 0.3]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.8, 0.5]\", \"lift_point\": \"[0.2, 0.5]\", \"typed_text\": \"\"\nGoal: Search for \"razer blade\" on walmart, select the first entry, and add it to the cart.\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.0688, 0.5801]\", \"lift_point\": \"[0.0688, 0.5801]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/1557610327446080741_7.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/1557610327446080741_7.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \nGoal: Go to costco.com\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.2785, 0.1409]\", \"lift_point\": \"[0.2785, 0.1409]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/7307535598628779826.1403-1538.Go to costco.com_0.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/7307535598628779826.1403-1538.Go to costco.com_0.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.7951, 0.8476]\", \"lift_point\": \"[0.7951, 0.8476]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.0634, 0.8144]\", \"lift_point\": \"[0.0634, 0.8144]\", \"typed_text\": \"\"\nGoal: install app \"ColorNote Notepad Notes\"\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [STATUS_TASK_COMPLETE]; Action Decision: \"action_type\": \"STATUS_TASK_COMPLETE\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/3975150437939689337_2.png"
+    ],
+    "detection_images": []
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"PRESS_HOME\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"\"\nGoal: open app \"Spotify: Music and Podcasts\" (install if not already installed), go to login, and select forgot password\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.8, 0.5]\", \"lift_point\": \"[0.2, 0.5]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/10416464350883090871_1.png"
+    ],
+    "detection_images": []
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.8, 0.5]\", \"lift_point\": \"[0.2, 0.5]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.3552, 0.492]\", \"lift_point\": \"[0.3552, 0.492]\", \"typed_text\": \"\"\nGoal: Clear the cart on newegg. Search for logitech g933 on newegg, select the first entry, and add it to the cart.\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.3657, 0.5108]\", \"lift_point\": \"[0.3657, 0.5108]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/10537274083116039024_3.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/10537274083116039024_3.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.4836, 0.4191]\", \"lift_point\": \"[0.4836, 0.4191]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.8, 0.5]\", \"lift_point\": \"[0.2, 0.5]\", \"typed_text\": \"\"\nGoal: turn notification dots off\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.8, 0.5]\", \"lift_point\": \"[0.2, 0.5]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/4365383186007592719_8.png"
+    ],
+    "detection_images": []
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.4523, 0.6355]\", \"lift_point\": \"[0.4523, 0.6355]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.917, 0.7959]\", \"lift_point\": \"[0.917, 0.7959]\", \"typed_text\": \"\"\nGoal: Go to first item then add item to cart\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [STATUS_TASK_COMPLETE]; Action Decision: \"action_type\": \"STATUS_TASK_COMPLETE\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/639996246412939375.778-890.Go to first item then add item to cart_2.png"
+    ],
+    "detection_images": []
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.084, 0.7728]\", \"lift_point\": \"[0.084, 0.7728]\", \"typed_text\": \"\"\n\"action_type\": \"TYPE\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"WhatsApp Messenge\"\nGoal: open app \"WhatsApp Messenger\"\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [TYPE]; Action Decision: \"action_type\": \"TYPE\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/5913717266266431687_5.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/5913717266266431687_5.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.9132, 0.7016]\", \"lift_point\": \"[0.9132, 0.7016]\", \"typed_text\": \"\"\nGoal: What's the price of the new iPhone\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [TYPE]; Action Decision: \"action_type\": \"TYPE\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"price of the new iPhone\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/14694446439510368267_1.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/14694446439510368267_1.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.4156, 0.1526]\", \"lift_point\": \"[0.4156, 0.1526]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.8, 0.5]\", \"lift_point\": \"[0.2, 0.5]\", \"typed_text\": \"\"\nGoal: turn on javascript in the chrome app\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.3581, 0.3462]\", \"lift_point\": \"[0.3581, 0.3462]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/2305762326524334966_9.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/2305762326524334966_9.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \nGoal: open app \"Google Home\" (install if not already installed)\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.8, 0.5]\", \"lift_point\": \"[0.2, 0.5]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/14149722878432272303_0.png"
+    ],
+    "detection_images": []
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \nGoal: open app \"ColorNote Notepad Notes\"\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.749, 0.1814]\", \"lift_point\": \"[0.749, 0.1814]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/16584283818660121587_0.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/16584283818660121587_0.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"PRESS_HOME\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"\"\nGoal: turn off picture-in-picture\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.8397, 0.3311]\", \"lift_point\": \"[0.8397, 0.3311]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/15172704415676226497_1.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/15172704415676226497_1.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"PRESS_HOME\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"\"\nGoal: install app \"McDonald's\"\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.8, 0.5]\", \"lift_point\": \"[0.2, 0.5]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/13653076372897471830_1.png"
+    ],
+    "detection_images": []
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.8, 0.5]\", \"lift_point\": \"[0.2, 0.5]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.1427, 0.5099]\", \"lift_point\": \"[0.1427, 0.5099]\", \"typed_text\": \"\"\nGoal: make emails show in primary in the gmail app\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.9708, 0.6524]\", \"lift_point\": \"[0.9708, 0.6524]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/2951005347102133564_2.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/2951005347102133564_2.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.6574, 0.8437]\", \"lift_point\": \"[0.6574, 0.8437]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.6574, 0.8437]\", \"lift_point\": \"[0.6574, 0.8437]\", \"typed_text\": \"\"\nGoal: delete the emails in spam in the gmail app\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.8, 0.5]\", \"lift_point\": \"[0.2, 0.5]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/1419887449470723925_12.png"
+    ],
+    "detection_images": []
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.2342, 0.3804]\", \"lift_point\": \"[0.2342, 0.3804]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.4282, 0.3991]\", \"lift_point\": \"[0.4282, 0.3991]\", \"typed_text\": \"\"\nGoal: Clear the cart on walmart. Search for lenovo thinkpad on walmart, select the first entry, add it to the cart, then select checkout.\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.9142, 0.6767]\", \"lift_point\": \"[0.9142, 0.6767]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/14608399290111988288_8.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/14608399290111988288_8.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"TYPE\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"usb c\"\n\"action_type\": \"PRESS_ENTER\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"\"\nGoal: search for usb-c on newegg.com\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [STATUS_TASK_COMPLETE]; Action Decision: \"action_type\": \"STATUS_TASK_COMPLETE\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/9762085416803472607.278-428.search for usb-c on newegg.com_4.png"
+    ],
+    "detection_images": []
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.0533, 0.5571]\", \"lift_point\": \"[0.0533, 0.5571]\", \"typed_text\": \"\"\n\"action_type\": \"TYPE\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"Google Sheets\"\nGoal: open app \"Google Sheets\"\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [PRESS_ENTER]; Action Decision: \"action_type\": \"PRESS_ENTER\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/15239766813959297252_6.png"
+    ],
+    "detection_images": []
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.8, 0.5]\", \"lift_point\": \"[0.2, 0.5]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.6454, 0.6787]\", \"lift_point\": \"[0.6454, 0.6787]\", \"typed_text\": \"\"\nGoal: Clear the cart on target. Search for lenovo thinkpad on target, select the first entry, and add it to the cart.\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [STATUS_TASK_COMPLETE]; Action Decision: \"action_type\": \"STATUS_TASK_COMPLETE\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/6327355750850627525_15.png"
+    ],
+    "detection_images": []
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \nGoal: Clear the shopping cart on ebay.com. Search for \"razer nari\" on ebay.com, select the first entry, add it to the cart, then select checkout.\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [PRESS_HOME]; Action Decision: \"action_type\": \"PRESS_HOME\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/9100520511777293752_0.png"
+    ],
+    "detection_images": []
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.9253, 0.8843]\", \"lift_point\": \"[0.9253, 0.8843]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.8028, 0.7642]\", \"lift_point\": \"[0.8028, 0.7642]\", \"typed_text\": \"\"\nGoal: open app \"Move to iOS\" (install if not already installed) and enter user name: \"Decca@icloud.com\" and password: \"reabbreviate\"\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.5095, 0.3092]\", \"lift_point\": \"[0.5095, 0.3092]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/9750442090680563702_10.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/9750442090680563702_10.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"PRESS_HOME\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"\"\nGoal: read, delete, or share a saved page in the chrome app\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.7947, 0.7105]\", \"lift_point\": \"[0.7947, 0.7105]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/13704534416998297063_1.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/13704534416998297063_1.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"PRESS_HOME\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.8, 0.5]\", \"lift_point\": \"[0.2, 0.5]\", \"typed_text\": \"\"\nGoal: open app \"Truecaller\" (install if not already installed), go to login, and select forgot password\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.2349, 0.8395]\", \"lift_point\": \"[0.2349, 0.8395]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/6678732649095130667_2.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/6678732649095130667_2.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"TYPE\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"newegg.com\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.2201, 0.3145]\", \"lift_point\": \"[0.2201, 0.3145]\", \"typed_text\": \"\"\nGoal: Clear all items from cart on newegg.com.\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.8, 0.5]\", \"lift_point\": \"[0.2, 0.5]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/2087783322841919801_9.png"
+    ],
+    "detection_images": []
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.4198, 0.5462]\", \"lift_point\": \"[0.4198, 0.5462]\", \"typed_text\": \"\"\nGoal: Go to View in cart & check out\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [STATUS_TASK_COMPLETE]; Action Decision: \"action_type\": \"STATUS_TASK_COMPLETE\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/8350253532236990780.884-956.Go to View in cart & check out_1.png"
+    ],
+    "detection_images": []
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \nGoal: Show me the best rated 4K TV on Walmart.\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [PRESS_HOME]; Action Decision: \"action_type\": \"PRESS_HOME\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/2197060829726709882_0.png"
+    ],
+    "detection_images": []
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.8, 0.5]\", \"lift_point\": \"[0.2, 0.5]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.8, 0.5]\", \"lift_point\": \"[0.2, 0.5]\", \"typed_text\": \"\"\nGoal: Add \"macbook pro 13 inch\" to the cart on amazon.com\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.8661, 0.5462]\", \"lift_point\": \"[0.8661, 0.5462]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/17519346582924224126_12.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/17519346582924224126_12.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.6689, 0.5724]\", \"lift_point\": \"[0.6689, 0.5724]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.8, 0.5]\", \"lift_point\": \"[0.2, 0.5]\", \"typed_text\": \"\"\nGoal: turn on data saver in the chrome app\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.7049, 0.2974]\", \"lift_point\": \"[0.7049, 0.2974]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/7567929856363745340_6.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/7567929856363745340_6.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.1253, 0.8236]\", \"lift_point\": \"[0.1253, 0.8236]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.1165, 0.8249]\", \"lift_point\": \"[0.1165, 0.8249]\", \"typed_text\": \"\"\nGoal: Empty the shopping cart on newegg. Search for \"sony triple a\" on newegg, select the first entry, add it to the cart, then select checkout.\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.1165, 0.8249]\", \"lift_point\": \"[0.1165, 0.8249]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/11268981938573412590_7.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/11268981938573412590_7.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.5146, 0.5225]\", \"lift_point\": \"[0.5146, 0.5225]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.2, 0.5]\", \"lift_point\": \"[0.8, 0.5]\", \"typed_text\": \"\"\nGoal: What's the news in Puerto Rico?\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.0974, 0.3551]\", \"lift_point\": \"[0.0974, 0.3551]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/4751047423814401412_4.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/4751047423814401412_4.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"TYPE\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"Google Maps \"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.1805, 0.309]\", \"lift_point\": \"[0.1805, 0.309]\", \"typed_text\": \"\"\nGoal: uninstall \"Google Maps\"\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.1181, 0.2233]\", \"lift_point\": \"[0.1181, 0.2233]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/1243648089988032969_11.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/1243648089988032969_11.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.0525, 0.9431]\", \"lift_point\": \"[0.0525, 0.9431]\", \"typed_text\": \"\"\n\"action_type\": \"TYPE\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"TextNow: Call + Text Unlimited\"\nGoal: open app \"TextNow: Call + Text Unlimited\" (install if not already installed) and enter user name: \"stoke@yahoo.com\" and password: \"prompted\"\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.0953, 0.3876]\", \"lift_point\": \"[0.0953, 0.3876]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/16803393827413954145_4.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/16803393827413954145_4.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \nGoal: Search for razer blade on bestbuy.com, select the first entry, add it to the cart, then select checkout.\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [PRESS_HOME]; Action Decision: \"action_type\": \"PRESS_HOME\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/3692315286253359143_0.png"
+    ],
+    "detection_images": []
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.8, 0.5]\", \"lift_point\": \"[0.2, 0.5]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.3883, 0.4033]\", \"lift_point\": \"[0.3883, 0.4033]\", \"typed_text\": \"\"\nGoal: Check my email\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [STATUS_TASK_COMPLETE]; Action Decision: \"action_type\": \"STATUS_TASK_COMPLETE\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/7883307298789632037_19.png"
+    ],
+    "detection_images": []
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.1322, 0.5121]\", \"lift_point\": \"[0.1322, 0.5121]\", \"typed_text\": \"\"\n\"action_type\": \"TYPE\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"usb-b\"\nGoal: Choose No, thanks and go to the search bar on bestbuy, then search for usb-b\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [PRESS_ENTER]; Action Decision: \"action_type\": \"PRESS_ENTER\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/16950202515543397218.816-1087.Choose No, thanks and go to the search bar on bestbuy, then search for usb-b_3.png"
+    ],
+    "detection_images": []
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.8435, 0.6861]\", \"lift_point\": \"[0.8435, 0.6861]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.7019, 0.2765]\", \"lift_point\": \"[0.7019, 0.2765]\", \"typed_text\": \"\"\nGoal: uninstall \"NewsBreak: Local News & Alerts\"\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.7032, 0.1273]\", \"lift_point\": \"[0.7032, 0.1273]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/16964237082712579921_5.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/16964237082712579921_5.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"TYPE\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"How big is a giraffe\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.1311, 0.3155]\", \"lift_point\": \"[0.1311, 0.3155]\", \"typed_text\": \"\"\nGoal: How big is a giraffe?\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [STATUS_TASK_COMPLETE]; Action Decision: \"action_type\": \"STATUS_TASK_COMPLETE\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/16756020500527582622_8.png"
+    ],
+    "detection_images": []
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.0737, 0.3735]\", \"lift_point\": \"[0.0737, 0.3735]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.0464, 0.9269]\", \"lift_point\": \"[0.0464, 0.9269]\", \"typed_text\": \"\"\nGoal: open app \"Move to iOS\"\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [TYPE]; Action Decision: \"action_type\": \"TYPE\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"MOve to IOS\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/13577790791695585421_3.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/13577790791695585421_3.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.4675, 0.481]\", \"lift_point\": \"[0.4675, 0.481]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.0805, 0.9338]\", \"lift_point\": \"[0.0805, 0.9338]\", \"typed_text\": \"\"\nGoal: change timer sound\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.1547, 0.8051]\", \"lift_point\": \"[0.1547, 0.8051]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/3171046488949385789_4.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/3171046488949385789_4.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"TYPE\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"bestbuy.com\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.1789, 0.253]\", \"lift_point\": \"[0.1789, 0.253]\", \"typed_text\": \"\"\nGoal: Go to search bar in google chrome then search for bestbuy.com\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [STATUS_TASK_COMPLETE]; Action Decision: \"action_type\": \"STATUS_TASK_COMPLETE\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/18281585118669099235.335-830.Go to search bar in google chrome then search for bestbuy.com_3.png"
+    ],
+    "detection_images": []
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"TYPE\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.1357, 0.773]\", \"lift_point\": \"[0.1357, 0.773]\", \"typed_text\": \"\"\nGoal: Add alienware aurora to the cart on target.com, then select checkout.\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [STATUS_TASK_COMPLETE]; Action Decision: \"action_type\": \"STATUS_TASK_COMPLETE\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/5742458566305713853_12.png"
+    ],
+    "detection_images": []
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"TYPE\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"newegg\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.1644, 0.2055]\", \"lift_point\": \"[0.1644, 0.2055]\", \"typed_text\": \"\"\nGoal: View the shopping cart on newegg. Search for razer naga on newegg, select the first entry, add it to the cart, then select checkout.\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.8327, 0.2126]\", \"lift_point\": \"[0.8327, 0.2126]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/9348176132673099742_7.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/9348176132673099742_7.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.1027, 0.6026]\", \"lift_point\": \"[0.1027, 0.6026]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.1099, 0.1483]\", \"lift_point\": \"[0.1099, 0.1483]\", \"typed_text\": \"\"\nGoal: delete the emails in spam in the gmail app\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.759, 0.3901]\", \"lift_point\": \"[0.759, 0.3901]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/7580975191444838081_12.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/7580975191444838081_12.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.1535, 0.8363]\", \"lift_point\": \"[0.1535, 0.8363]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.0577, 0.8106]\", \"lift_point\": \"[0.0577, 0.8106]\", \"typed_text\": \"\"\nGoal: install app \"Nova Launcher\"\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.0565, 0.934]\", \"lift_point\": \"[0.0565, 0.934]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/2084568079073454905_3.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/2084568079073454905_3.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"PRESS_BACK\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.2214, 0.452]\", \"lift_point\": \"[0.2214, 0.452]\", \"typed_text\": \"\"\nGoal: make emails show in primary in the gmail app\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.4293, 0.1982]\", \"lift_point\": \"[0.4293, 0.1982]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/8265897867648880233_4.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/8265897867648880233_4.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.6339, 0.4904]\", \"lift_point\": \"[0.6339, 0.4904]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.3928, 0.3726]\", \"lift_point\": \"[0.3928, 0.3726]\", \"typed_text\": \"\"\nGoal: What's the weather?\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [STATUS_TASK_COMPLETE]; Action Decision: \"action_type\": \"STATUS_TASK_COMPLETE\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/10714298024909486479_4.png"
+    ],
+    "detection_images": []
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.7892, 0.6793]\", \"lift_point\": \"[0.7892, 0.6793]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.0576, 0.921]\", \"lift_point\": \"[0.0576, 0.921]\", \"typed_text\": \"\"\nGoal: Open a new tab in Chrome\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.1143, 0.5338]\", \"lift_point\": \"[0.1143, 0.5338]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/11025121899187946952_2.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/11025121899187946952_2.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.1132, 0.8392]\", \"lift_point\": \"[0.1132, 0.8392]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.1102, 0.9102]\", \"lift_point\": \"[0.1102, 0.9102]\", \"typed_text\": \"\"\nGoal: Add jbl charge 4 to the cart on target, then select checkout.\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.2, 0.5]\", \"lift_point\": \"[0.8, 0.5]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/13285834155143190077_10.png"
+    ],
+    "detection_images": []
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \nGoal: Go to the search bar on Google and type newegg.com, then open the official website of newegg.com\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.1129, 0.312]\", \"lift_point\": \"[0.1129, 0.312]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/16174180520064997610.98-496.Go to the search bar on Google and type newegg.com, then open the official website of newegg.com_0.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/16174180520064997610.98-496.Go to the search bar on Google and type newegg.com, then open the official website of newegg.com_0.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"PRESS_ENTER\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"\"\n\"action_type\": \"TYPE\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"walmart\"\nGoal: Show me the best rated vacuum on Walmart.\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.0506, 0.3076]\", \"lift_point\": \"[0.0506, 0.3076]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/6659256567972515961_5.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/6659256567972515961_5.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.4509, 0.1462]\", \"lift_point\": \"[0.4509, 0.1462]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.449, 0.1053]\", \"lift_point\": \"[0.449, 0.1053]\", \"typed_text\": \"\"\nGoal: open app \"Etsy: Buy & Sell Unique Items\" (install if not already installed) and enter user name: \"camp@inbox.com\" and password: \"unrelated\"\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [TYPE]; Action Decision: \"action_type\": \"TYPE\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"unrelated\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/6492033444698187463_21.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/6492033444698187463_21.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"PRESS_HOME\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"\"\nGoal: View the shopping cart on costco.com. Add \"asus zenbook\" to the cart on costco.com\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.811, 0.7]\", \"lift_point\": \"[0.811, 0.7]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/5251465157204279970_1.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/5251465157204279970_1.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.5504, 0.564]\", \"lift_point\": \"[0.5504, 0.564]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.8, 0.5]\", \"lift_point\": \"[0.2, 0.5]\", \"typed_text\": \"\"\nGoal: Add \"corsair k70\" to the cart on ebay\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.8314, 0.4599]\", \"lift_point\": \"[0.8314, 0.4599]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/17779632585276670508_9.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/17779632585276670508_9.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.8519, 0.7034]\", \"lift_point\": \"[0.8519, 0.7034]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.8, 0.5]\", \"lift_point\": \"[0.2, 0.5]\", \"typed_text\": \"\"\nGoal: install app \"NewsBreak: Local News & Alerts\"\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.8174, 0.4441]\", \"lift_point\": \"[0.8174, 0.4441]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/16419908092452745084_11.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/16419908092452745084_11.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \nGoal: View the shopping cart on amazon. Add bose soundlink mini to the cart on amazon, then select checkout.\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.7913, 0.6141]\", \"lift_point\": \"[0.7913, 0.6141]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/9613843412158891053_0.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/9613843412158891053_0.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.3123, 0.5302]\", \"lift_point\": \"[0.3123, 0.5302]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.8, 0.5]\", \"lift_point\": \"[0.2, 0.5]\", \"typed_text\": \"\"\nGoal: What's on the menu at Domino's?\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.182, 0.4734]\", \"lift_point\": \"[0.182, 0.4734]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/1796503232930842879_8.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/1796503232930842879_8.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.7841, 0.4906]\", \"lift_point\": \"[0.7841, 0.4906]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.7841, 0.4906]\", \"lift_point\": \"[0.7841, 0.4906]\", \"typed_text\": \"\"\nGoal: open app \"Truecaller\" (install if not already installed) and go to login screen\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.0842, 0.0616]\", \"lift_point\": \"[0.0842, 0.0616]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/11081194752954080207_6.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/11081194752954080207_6.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.7915, 0.6096]\", \"lift_point\": \"[0.7915, 0.6096]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.0519, 0.3688]\", \"lift_point\": \"[0.0519, 0.3688]\", \"typed_text\": \"\"\nGoal: Show the shopping cart on bestbuy.com. Search for dell xps on bestbuy.com, select the first entry, add it to the cart, then select checkout.\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [TYPE]; Action Decision: \"action_type\": \"TYPE\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"bestbuy.com\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/17779087793998024772_3.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/17779087793998024772_3.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \nGoal: Open Amazon\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.8801, 0.1535]\", \"lift_point\": \"[0.8801, 0.1535]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/7383968362515933602_0.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/7383968362515933602_0.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.5013, 0.1919]\", \"lift_point\": \"[0.5013, 0.1919]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.8, 0.5]\", \"lift_point\": \"[0.2, 0.5]\", \"typed_text\": \"\"\nGoal: Open first result and go to cart section, then add to cart\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.6327, 0.6443]\", \"lift_point\": \"[0.6327, 0.6443]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/6472206608469843504.287-408.Open first result and go to cart section, then add to cart_2.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/6472206608469843504.287-408.Open first result and go to cart section, then add to cart_2.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \nGoal: Clear the cart on costco. Search for razer naga on costco, select the first entry, and add it to the cart.\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.7999, 0.6875]\", \"lift_point\": \"[0.7999, 0.6875]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/3753111368938145278_0.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/3753111368938145278_0.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.9001, 0.1624]\", \"lift_point\": \"[0.9001, 0.1624]\", \"typed_text\": \"\"\n\"action_type\": \"TYPE\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"walmart\"\nGoal: Clear the shopping cart on walmart.\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [PRESS_ENTER]; Action Decision: \"action_type\": \"PRESS_ENTER\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/3659259409365170242_5.png"
+    ],
+    "detection_images": []
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.5, 0.8]\", \"lift_point\": \"[0.5, 0.2]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.7968, 0.1247]\", \"lift_point\": \"[0.7968, 0.1247]\", \"typed_text\": \"\"\nGoal: Check the settings for the Instagram app\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.7868, 0.1258]\", \"lift_point\": \"[0.7868, 0.1258]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/3131021496941614366_8.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/3131021496941614366_8.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \nGoal: turn on the 24-hour format for clock\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.8, 0.5]\", \"lift_point\": \"[0.2, 0.5]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/6321613305385990957_0.png"
+    ],
+    "detection_images": []
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \nGoal: open app \"The Home Depot\"\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.7861, 0.4969]\", \"lift_point\": \"[0.7861, 0.4969]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/6917791951944403930_0.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/6917791951944403930_0.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.8148, 0.6138]\", \"lift_point\": \"[0.8148, 0.6138]\", \"typed_text\": \"\"\nGoal: Open a new Chrome incognito tab\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.0645, 0.8305]\", \"lift_point\": \"[0.0645, 0.8305]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/11005832388358746451_1.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/11005832388358746451_1.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.2856, 0.8895]\", \"lift_point\": \"[0.2856, 0.8895]\", \"typed_text\": \"\"\n\"action_type\": \"PRESS_BACK\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"\"\nGoal: uninstall \"Etsy: Buy & Sell Unique Items\"\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.1274, 0.3507]\", \"lift_point\": \"[0.1274, 0.3507]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/10619068063612554776_3.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/10619068063612554776_3.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.2769, 0.2935]\", \"lift_point\": \"[0.2769, 0.2935]\", \"typed_text\": \"\"\nGoal: go to Cart: Target \nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [STATUS_TASK_COMPLETE]; Action Decision: \"action_type\": \"STATUS_TASK_COMPLETE\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/17961747036844147266.153-200.go to Cart: Target _1.png"
+    ],
+    "detection_images": []
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"TYPE\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"\"\n\"action_type\": \"PRESS_ENTER\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"\"\nGoal: Clear the cart on target.com. Search for razer naga on target.com, select the first entry, and add it to the cart.\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.2247, 0.5699]\", \"lift_point\": \"[0.2247, 0.5699]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/9248460048764264108_5.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/9248460048764264108_5.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.8234, 0.6175]\", \"lift_point\": \"[0.8234, 0.6175]\", \"typed_text\": \"\"\nGoal: Go to the search bar in chrome\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.0432, 0.5548]\", \"lift_point\": \"[0.0432, 0.5548]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/8235159804109120849.308-483.Go to the search bar in chrome_1.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/8235159804109120849.308-483.Go to the search bar in chrome_1.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.4706, 0.7976]\", \"lift_point\": \"[0.4706, 0.7976]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.8, 0.5]\", \"lift_point\": \"[0.2, 0.5]\", \"typed_text\": \"\"\nGoal: uninstall \"NewsBreak: Local News & Alerts\"\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "<|detection_action_start|><|detection_action|><|detection_action_end|>",
+        "role": "assistant"
+      },
+      {
+        "content": "<detection_image>",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [DUAL_POINT]; Action Decision: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.7478, 0.8862]\", \"lift_point\": \"[0.7478, 0.8862]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/15145263403201229295_8.png"
+    ],
+    "detection_images": [
+      "sample_dataset/images/15145263403201229295_8.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nPrevious Actions: \"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.1184, 0.2398]\", \"lift_point\": \"[0.1184, 0.2398]\", \"typed_text\": \"\"\n\"action_type\": \"DUAL_POINT\", \"touch_point\": \"[0.3204, 0.2319]\", \"lift_point\": \"[0.3204, 0.2319]\", \"typed_text\": \"\"\nGoal: Where can I buy a nice beach blanket?\nPredict the next action to be taken according to the Goal\nLet's think step by step."
+      },
+      {
+        "content": "<|start-latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|latent|><|end-latent|>",
+        "role": "assistant"
+      },
+      {
+        "content": "Require additional perception features if required and then answer the question based on your observations or answer the question directly if additional perception features are not required",
+        "role": "user"
+      },
+      {
+        "content": "Action Plan: [STATUS_TASK_COMPLETE]; Action Decision: \"action_type\": \"STATUS_TASK_COMPLETE\", \"touch_point\": \"[-1.0, -1.0]\", \"lift_point\": \"[-1.0, -1.0]\", \"typed_text\": \"\"",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "sample_dataset/images/17421668247662586775_3.png"
+    ],
+    "detection_images": []
+  }
+]

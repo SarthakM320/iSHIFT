@@ -1,0 +1,25 @@
+# Model checkpoints
+checkpoint-*/
+models/
+outputs/
+*.bin
+*.pt
+*.pth
+*.safetensors
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Results
+inference/results/

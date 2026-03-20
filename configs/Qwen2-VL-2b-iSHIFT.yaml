@@ -1,0 +1,46 @@
+model_name_or_path: outputs/test_alignment/checkpoint-1
+new_tokens: <|latent|>,<|start-latent|>,<|end-latent|>,<|detection_action_start|>,<|detection_action|>,<|detection_action_end|>
+resize_vocab: true
+additional_target: embed_tokens,lm_head
+customize_model_class: ishift # must be set as this for our model, must be set None for original qwen
+num_inner_forward_run: 2
+para_mask_id: 0
+para_mask_ratio: 0.5
+vision_encoder_ls: dino
+
+### method
+stage: sft
+do_train: true
+finetuning_type: freefreeze
+freefreeze_frozen_modules: detection_model,visual
+deepspeed: examples/deepspeed/ds_z0_config.json
+
+### dataset
+dataset: sample_dataset
+# max_samples: 1000
+template: ishift_qwen2_vl # must be set as this for our model, must be set qwen2_vl for oiginal qwen
+cutoff_len: 2048
+overwrite_cache: true
+preprocessing_num_workers: 32
+
+# max_samples: 10000
+
+### output
+output_dir: outputs/test_ft
+# resume_from_checkpoint: true
+# ignore_data_skip: true
+logging_steps: 10
+save_steps: 1
+plot_loss: true
+overwrite_output_dir: true
+
+### train
+per_device_train_batch_size: 8 # 8,1
+gradient_accumulation_steps: 4 # 2,16
+learning_rate: 2.0e-5
+num_train_epochs: 1.0 
+lr_scheduler_type: cosine
+warmup_ratio: 0.03
+bf16: true
+ddp_timeout: 180000000
+save_safetensors: false
